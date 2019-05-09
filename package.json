@@ -1,0 +1,22 @@
+{
+  "name": "sightreading",
+  "version": "1.0.0",
+  "description": "Sight Reading",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NertNiels/SightReading.git"
+  },
+  "author": "Niels Smit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NertNiels/SightReading/issues"
+  },
+  "homepage": "https://github.com/NertNiels/SightReading#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
